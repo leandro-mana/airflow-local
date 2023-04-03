@@ -59,7 +59,7 @@ pipenv install <package>
 ### **NOTES:**
 - [Supported Installation](https://airflow.apache.org/docs/apache-airflow/2.4.3/installation/installing-from-pypi.html)
 - Original Docker Compose [file](https://airflow.apache.org/docs/apache-airflow/2.4.3/docker-compose.yaml)
-- Pipenv [cheat sheet]https://upengareri.github.io/pipenv_cheatsheet/
+- Pipenv [cheat sheet](https://upengareri.github.io/pipenv_cheatsheet/)
 - Airflow [blogs](https://towardsdatascience.com/tagged/airflow)
 - Airflow example [DAGs](https://github.com/apache/airflow/tree/main/airflow/example_dags)
 - AWS, Amazon Managed Workflows for Apache Airflow [MWAA](https://www.youtube.com/watch?v=ZET50M20hkU&ab_channel=AmazonWebServices)
